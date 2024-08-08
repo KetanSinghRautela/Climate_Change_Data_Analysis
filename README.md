@@ -8,3 +8,23 @@ Libraries Used
 •	Numpy :  NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 •	Matplotlib :  Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. Create publication quality plots. Make interactive figures that can zoom, pan, update.
 •	Seaborn : Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps in exploring and understanding our data.
+
+## Literature Survey
+The Dataset Chosen for this Project is from Berkeley Earth.
+Berkeley Earth supplies comprehensive open-source world air pollution data and highly user-accessible global temperature data that is timely, impartial, and verified.
+Given this complexity, there are a range of organizations that collate climate trends data. The three most cited land and ocean temperature data sets are NOAA’s MLOST, NASA’s GISTEMP and the UK’s HadCrut.
+The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
+
+The Dataset contain several attributes/fields, such as:
+Date: starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures
+LandAverageTemperature: global average land temperature in celsius
+LandAverageTemperatureUncertainty: the 95% confidence interval around the average
+LandMaxTemperature: global average maximum land temperature in celsius
+LandMaxTemperatureUncertainty: the 95% confidence interval around the maximum land temperature
+LandMinTemperature: global average minimum land temperature in celsius
+LandMinTemperatureUncertainty: the 95% confidence interval around the minimum land temperature
+LandAndOceanAverageTemperature: global average land and ocean temperature in celsius
+LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature
+The raw data comes from the Berkeley Earth data page.
+
+
