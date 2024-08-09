@@ -27,4 +27,24 @@ LandAndOceanAverageTemperature: global average land and ocean temperature in cel
 LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature
 The raw data comes from the Berkeley Earth data page.
 
+## Methodology 
+
+### 3.1 Data Collection:
+The Dataset Chosen for this Project is from Berkeley Earth.
+Berkeley Earth supplies comprehensive open-source world air pollution data and highly user-accessible global temperature data that is timely, impartial, and verified.
+
+### 3.2 Import Libraries and Dataset:
+We import some of the important libraries of python like pandas, numpy , scipy and matplotlib for the working of our project. Importing of libraries is like this –
+ 
+
+
+
+### 3.3 Time Series Analysis:
+We used time series analysis for different states using the dataset from Kaggle. Time series analysis is a specific way of analysing a sequence of data points collected over an interval of time. In time series analysis, analysts record data points at consistent intervals over a set period of time rather than just recording the data points intermittently or randomly. Time series data, which consists of observations collected sequentially over time, is widely used in various fields such as economics, finance, and environmental science. One important assumption for many time series analysis techniques is stationarity. A stationary time series exhibits consistent statistical properties over time, making it easier to model and analyse.
+
+### 3.4 Dickey-Fuller Test
+Dickey Fuller test is a statistical test that is used to check for stationarity in time series. This is a type of unit root test, through which we find if the time series is having any unit root.
+Unit root is a feature of time series that indicates if there is any stochastic trend in the time series that drives it away from its mean value. Presence of unit root makes a time series non-stationary and as a result it leads to difficulties in deriving statistical inferences from the time series and future predictions.
+
+
 
