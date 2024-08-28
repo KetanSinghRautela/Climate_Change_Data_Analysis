@@ -54,5 +54,17 @@ For example - Average Temperature graph :
 <img width="452" alt="Picture 1" src="https://github.com/user-attachments/assets/c07f722e-da2f-4137-a5c8-e80ab8a494ba">
 
 
+Dickey-Fuller test result that determine how stationary our time series is:
+
+<img width="364" alt="Picture 2" src="https://github.com/user-attachments/assets/223c577a-ac19-46be-92b1-d794687715d5">
+
+Here the test statistics is greater than the critical value therefore, we have failed to reject the null hypothesis at this point. So we can say that time series is not stationary.
+
+## Conclusion and Future Work 
+Climate change is progressively posing as one  of this era’s biggest challenges, threatening the existence of flora, fauna, and human life  equally. Development activities by  humans are a  major factor  adding climate change as  well. Climate data analysis  is still in  its infancy  stage but it  is playing a key  role  in  limiting  the  detrimental  effects  of  climate change. Data science is presenting a tremendous opportunity by providing novel data, methods, evaluation challenges and robust  information.  Climate  Science  and  Climate  Data Analysis  have  helped  data  scientists  understand  past  and present  environmental and  weather  conditions to  establish reliable  climate  models,  to  develop  an  understanding  to what is to come and to be prepared for it.
+
+Analysis  have  helped  data  scientists  understand  past  and present  environmental and  weather  conditions to  establish reliable  climate  models,  to  develop  an  understanding  to what is to come and to be prepared for it
+
+
 
 
