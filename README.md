@@ -48,3 +48,11 @@ Unit root is a feature of time series that indicates if there is any stochastic 
 
 
 
+## Result and Discussion
+There are various graphs based on different data item-
+For example - Average Temperature graph :
+<img width="452" alt="Picture 1" src="https://github.com/user-attachments/assets/c07f722e-da2f-4137-a5c8-e80ab8a494ba">
+
+
+
+
